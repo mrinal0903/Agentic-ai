@@ -1,0 +1,22 @@
+
+Cover Page
+Title: Impact of AI in Healthcare
+
+Introduction:
+Artificial Intelligence (AI) is transforming healthcare by improving diagnosis, treatment, and patient care. It enables faster decision-making and enhances medical accuracy.
+
+Key Findings:
+- AI improves early disease detection through predictive analytics
+- Enhances personalized treatment plans using patient data
+- Reduces human errors in diagnostics and surgery
+
+Challenges:
+- Data privacy and security concerns
+- High implementation and maintenance costs
+
+Future Scope:
+- AI-powered robotic surgeries
+- Integration with wearable health devices
+
+Conclusion:
+AI has the potential to revolutionize healthcare by improving efficiency and accuracy, but ethical and cost challenges must be addressed.

@@ -1,0 +1,22 @@
+
+Cover Page
+Title: Blockchain in Supply Chain
+
+Introduction:
+Blockchain technology improves transparency and traceability in supply chain management. It helps track products from origin to delivery securely.
+
+Key Findings:
+- Ensures transparency across the supply chain
+- Reduces fraud and counterfeit products
+- Enables real-time tracking of goods
+
+Challenges:
+- High implementation cost
+- Lack of global standardization
+
+Future Scope:
+- Integration with IoT for smart tracking
+- Use of smart contracts for automation
+
+Conclusion:
+Blockchain can significantly improve supply chain systems by increasing trust and efficiency, but adoption barriers still exist.
